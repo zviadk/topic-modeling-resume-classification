@@ -1,7 +1,7 @@
 Multi-Industry Resume Classification Using LDA
 This project explores topic modeling for resumes across multiple industries using Latent Dirichlet Allocation (LDA). The goal is to extract meaningful themes while refining stopword filtering to improve coherence scores.
  Dataset
-* Source: Kaggle (search for �resume dataset�)
+* Source: Kaggle (search for "resume dataset")
 * Type: Resumes from various industries
 * Preprocessing: Tokenization, stopword removal, lemmatization
 
